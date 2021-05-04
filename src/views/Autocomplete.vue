@@ -1,0 +1,9 @@
+<template>
+  <google-map-autocomplete
+      model="String"
+      types="Array"
+      controls="Boolean"
+      update-map="Boolean"
+      place-changed="Function"
+  />
+</template>
